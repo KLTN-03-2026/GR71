@@ -155,7 +155,6 @@ tour-du-lich/
 │       └── utils/           # Chatbot, socket, helpers
 │
 └── package.json             # Script chạy toàn dự án
-
 ## API chính
 
 GET    /api/tour/all          Lấy tất cả tour
