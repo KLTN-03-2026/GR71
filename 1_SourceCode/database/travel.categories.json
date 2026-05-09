@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "68d8cbf3e02d9354cd382a5b"
+  },
+  "categoryName": "Hà Nội",
+  "image": "1759038438896.avif",
+  "description": "Thành phố năng động nhất Việt Nam",
+  "createdAt": {
+    "$date": "2025-09-28T05:47:31.217Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-28T05:47:31.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e3812c42304e25559ae6b2"
+  },
+  "categoryName": "Sài gòn",
+  "image": "1759740186135.webp",
+  "description": "Thành phố năng động nhất Việt Nam",
+  "createdAt": {
+    "$date": "2025-10-06T08:43:24.100Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-06T08:43:24.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68e3814142304e25559ae6b8"
+  },
+  "categoryName": "Đà Nẵng",
+  "image": "1759740218779.jpg",
+  "description": "Thành phố năng động nhất Việt Nam",
+  "createdAt": {
+    "$date": "2025-10-06T08:43:45.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-06T08:43:45.977Z"
+  },
+  "__v": 0
+}]
